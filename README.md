@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=(주)우하하%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=(주)우하하%20&fontSize=30)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KangYoonjoo&show_icons=true&theme=tokyonight)
