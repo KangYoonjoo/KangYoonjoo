@@ -4,7 +4,7 @@
 ![header](https://github.com/KangYoonjoo/KangYoonjoo/assets/63834758/b3ee6981-5198-4af7-98a6-81b87bdacf27)
 
 
-✨ Github Stats ✨
+### ✨ Github Stats ✨
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KangYoonjoo&show_icons=true&theme=tokyonight)
 
