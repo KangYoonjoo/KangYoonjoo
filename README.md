@@ -1,7 +1,8 @@
 
 <div align="center">
   
-![HEADER](https://github.com/KangYoonjoo/KangYoonjoo/assets/63834758/e1dac892-6dca-4bac-9be8-094f8980c1ce)
+![header](https://github.com/KangYoonjoo/KangYoonjoo/assets/63834758/b3ee6981-5198-4af7-98a6-81b87bdacf27)
+
 
 ✨ Github Stats ✨
   
