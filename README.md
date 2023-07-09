@@ -3,9 +3,10 @@
 
 ![header](https://github.com/KangYoonjoo/KangYoonjoo/assets/63834758/87f44135-159e-4759-983b-9fc3481e0fad)
 
-
+<!--
 ### ✨ Top Langs ✨
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangYoonjoo&layout=compact&theme=radical&langs_count=8)
+-->
 
 
   
