@@ -5,9 +5,8 @@
 
 
 
-### ✨ Github Stats ✨
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KangYoonjoo&show_icons=true&theme=tokyonight)
+### ✨ Top Langs ✨
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangYoonjoo&layout=compact&theme=radical)
 
   
   ### 📚 Tech Stack 📚
